@@ -1,1 +1,2 @@
-
+--Pratica 3 de haskell
+--Nome: Ivan Maidana da silveira
